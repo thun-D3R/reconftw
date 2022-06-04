@@ -43,6 +43,7 @@ It also performs various vulnerability checks like XSS, Open Redirects, SSRF, CR
 
 So, what are you waiting for Go! Go! Go! :boom:
 
+password = Abcdojazsdfj$kazsdfksd124
 
 📔 Table of Contents
 -----------------
